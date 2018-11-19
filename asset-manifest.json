@@ -1,7 +1,7 @@
 {
-  "main.css": "/16-bit-porfolio/static/css/main.a79ab118.chunk.css",
-  "main.js": "/16-bit-porfolio/static/js/main.25e0dfcd.chunk.js",
-  "main.js.map": "/16-bit-porfolio/static/js/main.25e0dfcd.chunk.js.map",
+  "main.css": "/16-bit-porfolio/static/css/main.c71d4e6b.chunk.css",
+  "main.js": "/16-bit-porfolio/static/js/main.e1a33e40.chunk.js",
+  "main.js.map": "/16-bit-porfolio/static/js/main.e1a33e40.chunk.js.map",
   "static/js/1.0cd6058f.chunk.js": "/16-bit-porfolio/static/js/1.0cd6058f.chunk.js",
   "static/js/1.0cd6058f.chunk.js.map": "/16-bit-porfolio/static/js/1.0cd6058f.chunk.js.map",
   "runtime~main.js": "/16-bit-porfolio/static/js/runtime~main.2c2ef2b7.js",
@@ -10,8 +10,8 @@
   "static/media/Projects.css": "/16-bit-porfolio/static/media/tavern.c15f4e88.png",
   "static/media/ContactSocial.css": "/16-bit-porfolio/static/media/itemshop.5426e8f5.png",
   "static/media/Intro.css": "/16-bit-porfolio/static/media/house.d66d52ed.png",
-  "static/css/main.a79ab118.chunk.css.map": "/16-bit-porfolio/static/css/main.a79ab118.chunk.css.map",
+  "static/css/main.c71d4e6b.chunk.css.map": "/16-bit-porfolio/static/css/main.c71d4e6b.chunk.css.map",
   "index.html": "/16-bit-porfolio/index.html",
-  "precache-manifest.e47b583d358ea453781015677b38b419.js": "/16-bit-porfolio/precache-manifest.e47b583d358ea453781015677b38b419.js",
+  "precache-manifest.cd6e9d2d17136940b58c8ccd8abf7d7f.js": "/16-bit-porfolio/precache-manifest.cd6e9d2d17136940b58c8ccd8abf7d7f.js",
   "service-worker.js": "/16-bit-porfolio/service-worker.js"
 }
