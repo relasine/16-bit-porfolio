@@ -1,7 +1,7 @@
 {
-  "main.css": "/16-bit-porfolio/static/css/main.574c06fa.chunk.css",
-  "main.js": "/16-bit-porfolio/static/js/main.b8184deb.chunk.js",
-  "main.js.map": "/16-bit-porfolio/static/js/main.b8184deb.chunk.js.map",
+  "main.css": "/16-bit-porfolio/static/css/main.bad469f7.chunk.css",
+  "main.js": "/16-bit-porfolio/static/js/main.a680c3de.chunk.js",
+  "main.js.map": "/16-bit-porfolio/static/js/main.a680c3de.chunk.js.map",
   "static/js/1.fec2e274.chunk.js": "/16-bit-porfolio/static/js/1.fec2e274.chunk.js",
   "static/js/1.fec2e274.chunk.js.map": "/16-bit-porfolio/static/js/1.fec2e274.chunk.js.map",
   "runtime~main.js": "/16-bit-porfolio/static/js/runtime~main.2c2ef2b7.js",
@@ -13,9 +13,9 @@
   "static/media/ContactSocial.css": "/16-bit-porfolio/static/media/itemshop.5426e8f5.png",
   "static/media/Projects.css": "/16-bit-porfolio/static/media/tavern.c15f4e88.png",
   "static/media/App.css": "/16-bit-porfolio/static/media/ChronoType.9b569dca.ttf",
-  "static/media/CastTwo.css": "/16-bit-porfolio/static/media/ice-c-2.5f8810d4.png",
-  "static/css/main.574c06fa.chunk.css.map": "/16-bit-porfolio/static/css/main.574c06fa.chunk.css.map",
+  "static/media/CastTwo.css": "/16-bit-porfolio/static/media/ice-c-3.5d327932.png",
+  "static/css/main.bad469f7.chunk.css.map": "/16-bit-porfolio/static/css/main.bad469f7.chunk.css.map",
   "index.html": "/16-bit-porfolio/index.html",
-  "precache-manifest.dad4c75552144dd12ecc8f8f7a03902f.js": "/16-bit-porfolio/precache-manifest.dad4c75552144dd12ecc8f8f7a03902f.js",
+  "precache-manifest.c46141faadf56a9b06f1a3db8a6863f3.js": "/16-bit-porfolio/precache-manifest.c46141faadf56a9b06f1a3db8a6863f3.js",
   "service-worker.js": "/16-bit-porfolio/service-worker.js"
 }
