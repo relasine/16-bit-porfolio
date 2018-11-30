@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b699594799740f02a12a23f3e1d754f2",
-    "url": "/16-bit-porfolio/static/media/ice2_1.b6995947.png"
+    "revision": "230f00a05f28e9721ac81311a783ecf1",
+    "url": "/16-bit-porfolio/static/media/ice2_3.230f00a0.png"
   },
   {
-    "revision": "0cb9cc5ba0fdc4822534",
-    "url": "/16-bit-porfolio/static/css/main.103633e1.chunk.css"
+    "revision": "28fca76d9482158e405d",
+    "url": "/16-bit-porfolio/static/css/main.45d99d65.chunk.css"
   },
   {
     "revision": "fec2e274a44490b95557",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ice2_2.48e1fba2.png"
   },
   {
-    "revision": "230f00a05f28e9721ac81311a783ecf1",
-    "url": "/16-bit-porfolio/static/media/ice2_3.230f00a0.png"
+    "revision": "b699594799740f02a12a23f3e1d754f2",
+    "url": "/16-bit-porfolio/static/media/ice2_1.b6995947.png"
   },
   {
-    "revision": "0cb9cc5ba0fdc4822534",
-    "url": "/16-bit-porfolio/static/js/main.0cb9cc5b.chunk.js"
+    "revision": "28fca76d9482158e405d",
+    "url": "/16-bit-porfolio/static/js/main.28fca76d.chunk.js"
   },
   {
     "revision": "3cd76254b9c464504a74361c55f90cd5",
@@ -108,23 +108,23 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ice2_13.c48b0225.png"
   },
   {
-    "revision": "b72816ce249c479d2e74e7c44a723ac2",
-    "url": "/16-bit-porfolio/static/media/ice-c-1.b72816ce.png"
-  },
-  {
     "revision": "a1ce26f0eacea6d9d12b6d3f93f228b5",
     "url": "/16-bit-porfolio/static/media/ice-c-4.a1ce26f0.png"
-  },
-  {
-    "revision": "5f8810d4ef9f7b668ff889976b9942c0",
-    "url": "/16-bit-porfolio/static/media/ice-c-2.5f8810d4.png"
   },
   {
     "revision": "5d327932ff45c6cdac1fd62511f656b4",
     "url": "/16-bit-porfolio/static/media/ice-c-3.5d327932.png"
   },
   {
-    "revision": "021c99530fe52e6bec00d19127758e20",
+    "revision": "5f8810d4ef9f7b668ff889976b9942c0",
+    "url": "/16-bit-porfolio/static/media/ice-c-2.5f8810d4.png"
+  },
+  {
+    "revision": "b72816ce249c479d2e74e7c44a723ac2",
+    "url": "/16-bit-porfolio/static/media/ice-c-1.b72816ce.png"
+  },
+  {
+    "revision": "8ff692167730bb8e10054ff0ab80c815",
     "url": "/16-bit-porfolio/index.html"
   }
 ];
