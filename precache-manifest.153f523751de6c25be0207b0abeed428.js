@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ice2_2.48e1fba2.png"
   },
   {
-    "revision": "cfc8091a0a6f8007628b",
+    "revision": "5c345eb5ca7adf3d0b31",
     "url": "/16-bit-porfolio/static/css/main.be0c2bb3.chunk.css"
   },
   {
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ChronoType.9b569dca.ttf"
   },
   {
-    "revision": "25edc877ae13674287932b735f156e62",
-    "url": "/16-bit-porfolio/static/media/lightning1_1.25edc877.png"
-  },
-  {
     "revision": "230f00a05f28e9721ac81311a783ecf1",
     "url": "/16-bit-porfolio/static/media/ice2_3.230f00a0.png"
   },
   {
-    "revision": "cfc8091a0a6f8007628b",
-    "url": "/16-bit-porfolio/static/js/main.cfc8091a.chunk.js"
+    "revision": "25edc877ae13674287932b735f156e62",
+    "url": "/16-bit-porfolio/static/media/lightning1_1.25edc877.png"
+  },
+  {
+    "revision": "5c345eb5ca7adf3d0b31",
+    "url": "/16-bit-porfolio/static/js/main.5c345eb5.chunk.js"
   },
   {
     "revision": "b699594799740f02a12a23f3e1d754f2",
@@ -80,6 +80,10 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ice2_5.1ff90ed3.png"
   },
   {
+    "revision": "35277bb999cd0f01137eb0b8514ac05b",
+    "url": "/16-bit-porfolio/static/media/ice2_6.35277bb9.png"
+  },
+  {
     "revision": "051eb7fca19555243fc717857bf29dc3",
     "url": "/16-bit-porfolio/static/media/ice2_8.051eb7fc.png"
   },
@@ -88,32 +92,32 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ice2_7.251cee81.png"
   },
   {
-    "revision": "bf7ff10f409a7a28e9322b006551ca35",
-    "url": "/16-bit-porfolio/static/media/ice2_11.bf7ff10f.png"
-  },
-  {
     "revision": "6d735b6d67232324b3f2677d9a06c203",
     "url": "/16-bit-porfolio/static/media/ice2_9.6d735b6d.png"
   },
   {
-    "revision": "81ded62ea19ec81ff997edf2758b414c",
-    "url": "/16-bit-porfolio/static/media/ice2_12.81ded62e.png"
+    "revision": "bf7ff10f409a7a28e9322b006551ca35",
+    "url": "/16-bit-porfolio/static/media/ice2_11.bf7ff10f.png"
   },
   {
     "revision": "827ee4b52230f4d8f048bb2d8ac74f70",
     "url": "/16-bit-porfolio/static/media/ice2_10.827ee4b5.png"
   },
   {
-    "revision": "35277bb999cd0f01137eb0b8514ac05b",
-    "url": "/16-bit-porfolio/static/media/ice2_6.35277bb9.png"
-  },
-  {
     "revision": "c48b0225297d10247854f83839104942",
     "url": "/16-bit-porfolio/static/media/ice2_13.c48b0225.png"
   },
   {
+    "revision": "81ded62ea19ec81ff997edf2758b414c",
+    "url": "/16-bit-porfolio/static/media/ice2_12.81ded62e.png"
+  },
+  {
     "revision": "b72816ce249c479d2e74e7c44a723ac2",
     "url": "/16-bit-porfolio/static/media/ice-c-1.b72816ce.png"
+  },
+  {
+    "revision": "5f8810d4ef9f7b668ff889976b9942c0",
+    "url": "/16-bit-porfolio/static/media/ice-c-2.5f8810d4.png"
   },
   {
     "revision": "a1ce26f0eacea6d9d12b6d3f93f228b5",
@@ -124,11 +128,7 @@ self.__precacheManifest = [
     "url": "/16-bit-porfolio/static/media/ice-c-3.5d327932.png"
   },
   {
-    "revision": "5f8810d4ef9f7b668ff889976b9942c0",
-    "url": "/16-bit-porfolio/static/media/ice-c-2.5f8810d4.png"
-  },
-  {
-    "revision": "f7746895d885c8b28b87afa50bc7480a",
+    "revision": "4c43892c3bc0ce045359b05ce73cfcfb",
     "url": "/16-bit-porfolio/index.html"
   }
 ];
